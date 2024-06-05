@@ -1,5 +1,6 @@
 # STAK_Project_One
-A shared repository for the first project.
+
+## Background
 
 Understand if more dogs are given up for adoption in the major  metropolitan areas compared to the surrounding suburban areas listed below.  
 
@@ -19,11 +20,13 @@ Independent Variable 2: Suburban Cities
 4. Schaumburg, IL
 5. Pearland, TX
 
+## Instructions
+
 Before completing the tasks below, pull in Pet Finder API and create a csv file.
 
-Part 1 - Research Questions
+### Part 1 - Research Questions
 
-Question 1:  Are people who live in metropolitan areas versus the suburbs more likely to put dogs up for adoption? 
+__Question 1:  Are people who live in metropolitan areas versus the suburbs more likely to put dogs up for adoption?__
 
 1. Create bar chart comparing the number of dogs up for adoption in all major metropolitan and suburban cities identified above. 
 
@@ -31,7 +34,7 @@ Question 1:  Are people who live in metropolitan areas versus the suburbs more l
 
 3. Create a pie chart for the total amount of dogs up for adoption aggregated in two independent variables, metropolitan and suburban areas. 
 
-Question 2:  Are people living in metropolitan areas compared to suburbs more likely to put large dogs up for adoption?
+__Question 2:  Are people living in metropolitan areas compared to suburbs more likely to put large dogs up for adoption?__
 
 1. Create a pie chart for each city illustrating the size of dogs up for adoption.
 
@@ -39,13 +42,13 @@ Question 2:  Are people living in metropolitan areas compared to suburbs more li
 
 3. Run an independent t-test for the dog sizes aggregated in two independent variable, metropolitan and suburban areas. 
 
-Question 3:  Are cats less likely to be given up for adoption in metropolitan areas?
+__Question 3:  Are cats less likely to be given up for adoption in metropolitan areas?__
 
 1.  Produce a bar graph comparing how many cats and dogs are up for adoption in each metropolitan city.
 
 2.  Create a pie graph comparing how many cats and dogs are up for adoption in each metropolitan city.
 
-Part 2 - Statistical Analysis
+### Part 2 - Statistical Analysis
 
 1. Perform an independent sample t-test, using a 95% level of confidence, with the two independent variables and determine if the null hypothesis will be rejected or accepted.
 
